@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"exceptions"},{"l":"nanoGym"},{"l":"sala"},{"l":"servicio"},{"l":"servicio.actividad"},{"l":"servicio.actividad.actividadmonitor"},{"l":"usuario"},{"l":"usuario.cliente"},{"l":"usuario.cliente.tarifa"},{"l":"utiles"}];updateSearchResults();
